@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="pl.blazej.szczypka.learn.documents.HtmlDocumentTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2017-11-28T18:24:01" hostname="DESKTOP-HT7IOGT" time="0.0">
+  <properties/>
+  <testcase name="testHtmlDocumentObject" classname="pl.blazej.szczypka.learn.documents.HtmlDocumentTest" time="0.0"/>
+  <system-out><![CDATA[Document{pages=null, documentType=HTML}
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
